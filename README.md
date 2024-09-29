@@ -5,10 +5,10 @@
     </a>
 </p>
 
-# SRIEVi Facebook User ID Finder
+#   Facebook User ID Finder
 
 
-Welcome to the **SRIEVi Facebook User ID Finder**. This tool helps you retrieve the unique Facebook user ID for any public profile based on its username or profile URL.
+Welcome to the **  Facebook User ID Finder**. This tool helps you retrieve the unique Facebook user ID for any public profile based on its username or profile URL.
 
 ## Features
 - **Find Facebook User ID**: Easily extract the numeric user ID associated with any public Facebook profile.
@@ -28,13 +28,16 @@ pip install colorama pyfiglet
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/lkbxob/fbidfinder.git
-    cd fbidfinder
+    git clone git@github.com:EIRSVi/facebook-find-id-user.git
+    
+    cd facebook-find-id-user
     ```
 
 2. Run the script with a Facebook username or profile URL:
     ```bash
-    python fbidfinder.py username
+    python fbfindidusr.py username
+    or
+    python fbfindidusr.py https://www.facebook.com/eirsvi
     ```
 
 3. Example with username:
@@ -54,9 +57,7 @@ python fbidfinder.py zuck
 ## Support
 
 Support the development of SRIEVi by following us on:
-- [GitHub](https://github.com/lkbxob)
-- [X (formerly Twitter)](https://x.com/eirsvi)
-- [YouTube](https://youtube.com/@eirsvi)
+- [GitHub](https://github.com/EIRSVi)
 
 Stay connected with us for updates and improvements!
 
