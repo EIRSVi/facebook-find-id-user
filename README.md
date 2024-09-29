@@ -8,10 +8,11 @@
 #   Facebook User ID Finder
 
 
-Welcome to the **  Facebook User ID Finder**. This tool helps you retrieve the unique Facebook user ID for any public profile based on its username or profile URL.
+Welcome to the **Facebook User ID Finder**. This tool helps you retrieve the unique Facebook user ID for any public profile based on its username or profile URL.
 
 ## Features
 - **Find Facebook User ID**: Easily extract the numeric user ID associated with any public Facebook profile.
+- 
 - **Support for Username or URL**: You can provide either a username or a full Facebook profile URL.
   
 ## Requirements
@@ -42,12 +43,12 @@ pip install colorama pyfiglet
 
 3. Example with username:
     ```bash
-    python fbidfinder.py zuck
+    python fbfindidusr.py zuck
     ```
 
 ### Example
 ```bash
-python fbidfinder.py zuck
+python fbfindidusr.py zuck
 ```
 **Output:**
 ```
